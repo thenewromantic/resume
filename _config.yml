@@ -1,6 +1,11 @@
 # Site settings
+
 title: "thenewromantic"
 description: "A resume template for thenewromantic."
+
+title: thenewromantic"
+description: "A resume template for thenewromantic."
+
 
 # Build settings
 markdown: kramdown
