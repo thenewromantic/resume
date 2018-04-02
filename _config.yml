@@ -1,6 +1,11 @@
 # Site settings
-title: "a sad resume"
-description: "no one is getting a job with this."
+
+title: "thenewromantic"
+description: "A resume template for thenewromantic."
+
+title: thenewromantic"
+description: "A resume template for thenewromantic."
+
 
 # Build settings
 markdown: kramdown
